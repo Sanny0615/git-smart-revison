@@ -1,0 +1,82 @@
+{
+  "os": {
+    "subject": "OS",
+    "date_added": "2026-03-11",
+    "quiz_dates": [
+      "2026-03-12",
+      "2026-03-14",
+      "2026-03-18",
+      "2026-03-25",
+      "2026-04-01",
+      "2026-04-10",
+      "2026-05-10"
+    ],
+    "completed_sessions": [],
+    "current_level": 1,
+    "status": "active"
+  },
+  "logic gates": {
+    "subject": "Digital Logic",
+    "date_added": "2026-03-17",
+    "quiz_dates": [
+      "2026-03-18",
+      "2026-03-20",
+      "2026-03-24",
+      "2026-03-31",
+      "2026-04-07",
+      "2026-04-16",
+      "2026-05-16"
+    ],
+    "completed_sessions": [],
+    "current_level": 1,
+    "status": "active"
+  },
+  "b-trees": {
+    "subject": "Operating Systems",
+    "date_added": "2026-03-18",
+    "quiz_dates": [
+      "2026-03-19",
+      "2026-03-21",
+      "2026-03-25",
+      "2026-04-01",
+      "2026-04-08",
+      "2026-04-17",
+      "2026-05-17"
+    ],
+    "completed_sessions": [],
+    "current_level": 1,
+    "status": "active"
+  },
+  "stack": {
+    "subject": "Data Structures",
+    "date_added": "2026-03-19",
+    "quiz_dates": [
+      "2026-03-20",
+      "2026-03-22",
+      "2026-03-26",
+      "2026-04-02",
+      "2026-04-09",
+      "2026-04-18",
+      "2026-05-18"
+    ],
+    "completed_sessions": [],
+    "current_level": 1,
+    "status": "active"
+  },
+  "queues": {
+    "subject": "Data Structures",
+    "date_added": "2026-03-19",
+    "quiz_dates": [
+      "2026-03-20",
+      "2026-03-22",
+      "2026-03-26",
+      "2026-04-02",
+      "2026-04-09",
+      "2026-04-18",
+      "2026-05-18"
+    ],
+    "completed_sessions": [],
+    "current_level": 1,
+    "status": "active"
+  }
+}
